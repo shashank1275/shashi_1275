@@ -1,7 +1,7 @@
 <math>
 <mrow>
 row operator
-<mn> main numerical </mn>
+<mn>2 </mn>
 <mi>x</mi>
 <mo> + </mo>
 </mrow>
